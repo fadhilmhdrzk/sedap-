@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Fadhil Muhammad Rizki",
+    "review": "Rasanya luar biasa dan pengantarannya super cepat. Sangat memuaskan!",
+    "avatar": "https://avatar.iran.liara.run/public"
+  },
+  {
+    "id": 2,
+    "name": "Bata Akbar",
+    "review": "Aplikasi Sedap benar-benar penyelamat di tengah kesibukan kantor. Praktis dan lezat!",
+    "avatar": "https://avatar.iran.liara.run/public/22"
+  },
+  {
+    "id": 3,
+    "name": "Indah Ramadhani",
+    "review": "Cita rasa masakan rumahan yang autentik. Serasa makan di rumah sendiri!",
+    "avatar": "https://avatar.iran.liara.run/public/98"
+  },
+  {
+    "id": 4,
+    "name": "Laode Fatahillah",
+    "review": "Solusi terbaik buat yang pengen makan enak tanpa repot masak.",
+    "avatar": "https://avatar.iran.liara.run/public/45"
+  },
+  {
+    "id": 5,
+    "name": "Nabilla Khairunnisa",
+    "review": "Pilihan menu lengkap dan terus berganti, bikin gak bosan!",
+    "avatar": "https://avatar.iran.liara.run/public/85"
+  },
+  {
+    "id": 6,
+    "name": "Jason Angriawan",
+    "review": "Pelayanan cepat, rasa makanan premium. Cocok banget buat pecinta kuliner!",
+    "avatar": "https://avatar.iran.liara.run/public/66"
+  }
+]

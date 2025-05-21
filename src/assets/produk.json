@@ -1,0 +1,182 @@
+[
+  {
+    "kode_produk": "PRD001",
+    "nama_produk": "Nasi Goreng Spesial",
+    "harga": 60000,
+    "stok": 10,
+    "kategori": "Nusantara",
+    "rating": 4.8,
+    "image": "https://dcostseafood.id/wp-content/uploads/2023/04/Nasi-Goreng-Spesial.jpg"
+  },
+  {
+    "kode_produk": "PRD002",
+    "nama_produk": "Ayam Bakar",
+    "harga": 55000,
+    "stok": 0,
+    "kategori": "Nusantara",
+    "rating": 4.4,
+    "image": "https://asset.kompas.com/crops/3SgWYNgq7ShiT3reW20YnTCYkOA=/0x0:1000x667/1200x800/data/photo/2023/11/23/655eb0089abf4.jpeg"
+  },
+  {
+    "kode_produk": "PRD003",
+    "nama_produk": "Sate Ayam",
+    "harga": 50000,
+    "stok": 7,
+    "kategori": "Nusantara",
+    "rating": 4.5,
+    "image": "https://media.istockphoto.com/id/467528630/id/foto/sate-ayam-di-atas-daun-pisang-dengan-anggrek-ungu.jpg?s=612x612&w=0&k=20&c=GtBiVDxhri_mLNOAQ8JKdq-KBFioy2BC-0RteN89L_s="
+  },
+  {
+    "kode_produk": "PRD004",
+    "nama_produk": "Mie Goreng Jawa",
+    "harga": 50000,
+    "stok": 15,
+    "kategori": "Nusantara",
+    "rating": 4.4,
+    "image": "https://assets.unileversolutions.com/v1/55546655.jpg"
+  },
+  {
+    "kode_produk": "PRD005",
+    "nama_produk": "Rendang Daging",
+    "harga": 80000,
+    "stok": 5,
+    "kategori": "Nusantara",
+    "rating": 4.6,
+    "image": "https://www.dapurkobe.co.id/wp-content/uploads/rendang-daging-sapi-pedas.jpg"
+  },
+  {
+    "kode_produk": "PRD006",
+    "nama_produk": "Gado-Gado",
+    "harga": 45000,
+    "stok": 3,
+    "kategori": "Nusantara",
+    "rating": 4.3,
+    "image": "https://www.masakapahariini.com/wp-content/uploads/2019/01/gado-gado-MAHI.jpg"
+  },
+  {
+    "kode_produk": "PRD007",
+    "nama_produk": "Bakso Urat",
+    "harga": 55000,
+    "stok": 2,
+    "kategori": "Nusantara",
+    "rating": 4.4,
+    "image": "https://asset.kompas.com/crops/cB-7HVfVN0Ci4yQKdoswSrFSJeU=/0x0:698x465/1200x800/data/photo/2021/01/08/5ff86f55cf2e4.jpg"
+  },
+  {
+    "kode_produk": "PRD008",
+    "nama_produk": "Soto Ayam Lamongan",
+    "harga": 65000,
+    "stok": 12,
+    "kategori": "Nusantara",
+    "rating": 4.3,
+    "image": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/17043644/Praktis-dan-Simpel-Ini-Resep-Soto-Ayam-Lamongan-yang-Menggugah-Selera-.jpg"
+  },
+  {
+    "kode_produk": "PRD009",
+    "nama_produk": "Pempek Palembang",
+    "harga": 40000,
+    "stok": 8,
+    "kategori": "Nusantara",
+    "rating": 4.2,
+    "image": "https://www.masakapahariini.com/wp-content/uploads/2023/06/pempek-palembang.jpeg"
+  },
+  {
+    "kode_produk": "PRD010",
+    "nama_produk": "Es Campur",
+    "harga": 40000,
+    "stok": 4,
+    "kategori": "Dessert",
+    "rating": 4.2,
+    "image": "https://i.pinimg.com/736x/d2/91/a2/d291a2b8687101fcfacaeb51750e92d7.jpg"
+  },
+  {
+    "kode_produk": "PRD011",
+    "nama_produk": "Tahu Gejrot",
+    "harga": 35000,
+    "stok": 2,
+    "kategori": "Nusantara",
+    "rating": 4.1,
+    "image": "https://images.tokopedia.net/img/KRMmCm/2022/9/28/bb0fa115-2e2e-4542-9801-54a9d07a1017.jpg"
+  },
+  {
+    "kode_produk": "PRD012",
+    "nama_produk": "Nasi Kuning Komplit",
+    "harga": 55000,
+    "stok": 9,
+    "kategori": "Nusantara",
+    "rating": 4.6,
+    "image": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/26044232/ini-resep-nasi-kuning-wangi-nan-lezat-dengan-berbagai-lauk.jpg.webp"
+  },
+  {
+    "kode_produk": "PRD0013",
+    "nama_produk": "Soto Betawi",
+    "harga": 60000,
+    "stok": 16,
+    "kategori": "Nusantara",
+    "rating": 4.4,
+    "image": "https://www.unileverfoodsolutions.co.id/dam/global-ufs/mcos/SEA/calcmenu/recipes/ID-recipes/soups/soto-betawi/main-header.jpg"
+  },
+  {
+    "kode_produk": "PRD014",
+    "nama_produk": "Spaghetti Bolognese",
+    "harga": 70000,
+    "stok": 10,
+    "kategori": "Western",
+    "rating": 4.7,
+    "image": "https://images.ctfassets.net/uexfe9h31g3m/6QtnhruEFi8qgEyYAICkyS/ab01e9b1da656f35dd1a721c810162a0/Spaghetti_bolognese_4x3_V2_LOW_RES.jpg?q=90&w=1200&h=600"
+  },
+  {
+    "kode_produk": "PRD015",
+    "nama_produk": "Chicken Steak",
+    "harga": 85000,
+    "stok": 6,
+    "kategori": "Western",
+    "rating": 4.5,
+    "image": "https://muchbutter.com/wp-content/uploads/2023/08/Chicken-Steak-16.jpg"
+  },
+  {
+    "kode_produk": "PRD016",
+    "nama_produk": "Fish and Chips",
+    "harga": 75000,
+    "stok": 5,
+    "kategori": "Western",
+    "rating": 4.4,
+    "image": "https://i0.wp.com/travelandmunchies.com/wp-content/uploads/2022/12/IMG_9513-scaled.jpg?fit=2560%2C1828&ssl=1"
+  },
+  {
+    "kode_produk": "PRD017",
+    "nama_produk": "Beef Burger",
+    "harga": 68000,
+    "stok": 12,
+    "kategori": "Western",
+    "rating": 4.6,
+    "image": "https://asset.kompas.com/crops/zbmx5CMyQLbONPHVHv3Ip4Ax9lg=/12x51:892x637/1200x800/data/photo/2022/03/05/622358ed771fb.jpg"
+  },
+  {
+    "kode_produk": "PRD018",
+    "nama_produk": "Caesar Salad",
+    "harga": 50000,
+    "stok": 7,
+    "kategori": "Western",
+    "rating": 4.3,
+    "image": "https://www.feastingathome.com/wp-content/uploads/2021/10/Caesar-salad_-4.jpg"
+  },
+  {
+    "kode_produk": "PRD019",
+    "nama_produk": "Mac and Cheese",
+    "harga": 60000,
+    "stok": 8,
+    "kategori": "Western",
+    "rating": 4.5,
+    "image": "https://www.southernliving.com/thmb/y4yf9e5CSRnUpatsubMwIHZKJZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Baked-Mac-and-Cheese-16x9-1127-a0ba1a2285c644fe9c0cde2ba5a7e7be.jpg"
+  },
+  {
+    "kode_produk": "PRD020",
+    "nama_produk": "Grilled Salmon",
+    "harga": 95000,
+    "stok": 4,
+    "kategori": "Western",
+    "rating": 4.8,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/how-to-grill-salmon-recipe1-1655870645.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
+  }
+]
