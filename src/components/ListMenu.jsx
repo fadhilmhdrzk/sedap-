@@ -4,6 +4,7 @@ import { AiOutlineBorderLeft } from "react-icons/ai";
 import { MdOutlineDashboardCustomize } from "react-icons/md";
 import { MdErrorOutline } from "react-icons/md";
 import { NavLink, Link } from "react-router-dom";
+import { MdFastfood } from "react-icons/md";
 
 export default function ListMenu() {
   const menuClass = ({ isActive }) =>
@@ -23,6 +24,7 @@ export default function ListMenu() {
         <li><NavLink to="/error-401" className={menuClass}><MdErrorOutline />Error 401</NavLink></li>
         <li><NavLink to="/error-403" className={menuClass}><MdErrorOutline />Error 403</NavLink></li>
         <li><NavLink to="/user" className={menuClass}><AiOutlineUser />User</NavLink></li>
+        <li><NavLink to="/products" className={menuClass}><MdFastfood />Products</NavLink></li>
       </ul>
     </div>
   );

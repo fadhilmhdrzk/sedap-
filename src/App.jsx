@@ -14,6 +14,7 @@ import Produk from "./pages/Quiz/Produk";
 import Home from "./pages/Quiz/Home";
 import Testimonial from "./pages/Quiz/Testimonial";
 import CekProduk from "./pages/Quiz/cekProduk";
+import Products from "./pages/Product";
 
 // import Loading from "./components/Loading";
 // import NotFound from "./pages/NotFound";
@@ -37,6 +38,7 @@ const Login = React.lazy(() => import("./pages/Auth/Login"))
 const Register = React.lazy(() => import("./pages/Auth//Register"))
 const Forgot = React.lazy(() => import("./pages/Auth/Forgot"))
 const User = React.lazy(() => import("./pages/Auth/User"))
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"))
 
 function App() {
   const [count, setCount] = useState(0);
@@ -54,6 +56,8 @@ function App() {
           <Route path="/error-403" element={<Error403 />} />
           <Route path="/add-customer" element={<AddCustomers />} />
           <Route path="/add-order" element={<AddOrders />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetail />} /> 
           <Route path="/user" element={<User />} />
           <Route path="*" element={<NotFound />} />
         </Route>
