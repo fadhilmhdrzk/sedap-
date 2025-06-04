@@ -25,6 +25,7 @@ export default function ListMenu() {
         <li><NavLink to="/error-403" className={menuClass}><MdErrorOutline />Error 403</NavLink></li>
         <li><NavLink to="/user" className={menuClass}><AiOutlineUser />User</NavLink></li>
         <li><NavLink to="/products" className={menuClass}><MdFastfood />Products</NavLink></li>
+        <li><NavLink to="/Notes" className={menuClass}><MdFastfood />Notes</NavLink></li>
       </ul>
     </div>
   );

@@ -15,6 +15,7 @@ import Home from "./pages/Quiz/Home";
 import Testimonial from "./pages/Quiz/Testimonial";
 import CekProduk from "./pages/Quiz/cekProduk";
 import Products from "./pages/Product";
+import Notes from "./pages/Notes";
 
 // import Loading from "./components/Loading";
 // import NotFound from "./pages/NotFound";
@@ -58,6 +59,7 @@ function App() {
           <Route path="/add-order" element={<AddOrders />} />
           <Route path="/products" element={<Products />} />
           <Route path="/products/:id" element={<ProductDetail />} /> 
+          <Route path="/Notes" element={<Notes />} />
           <Route path="/user" element={<User />} />
           <Route path="*" element={<NotFound />} />
         </Route>
